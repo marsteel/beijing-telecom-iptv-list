@@ -38,6 +38,8 @@ http://192.168.222.220:4022/rtp/225.1.8.10:8116
 http://192.168.222.220:4022/rtp/225.1.8.73:8120
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV-12社会与法HD
 http://192.168.222.220:4022/rtp/225.1.8.12:8124
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13新闻HD
+http://192.168.222.220:4022/rtp/225.1.8.168:8130
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV-14少儿HD
 http://192.168.222.220:4022/rtp/225.1.8.14:8132
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15音乐HD
@@ -91,6 +93,10 @@ http://192.168.222.220:4022/rtp/225.1.8.50:8052
 http://192.168.222.220:4022/rtp/225.1.8.51:8056
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视高清
 http://192.168.222.220:4022/rtp/225.1.8.52:8064
+#EXTINF:-1 tvg-id="44" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视高清
+http://192.168.222.220:4022/rtp/225.1.8.52:8064
+#EXTINF:-1 tvg-id="35" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视高清
+http://192.168.222.220:4022/rtp/225.1.8.172:8162
 #EXTINF:-1 tvg-id="" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="未分类",纪实高清
 http://192.168.222.220:4022/rtp/225.1.8.53:8060
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",每日影院[高清]
