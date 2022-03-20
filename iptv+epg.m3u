@@ -11,6 +11,11 @@ http://192.168.222.220:4022/rtp/225.1.8.225:5008
 http://192.168.222.220:4022/rtp/225.1.8.69:8002
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",密云电视台HD
 http://192.168.222.220:4022/rtp/225.1.8.75:8002
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="未分类",凤凰中文HD
+https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="未分类",凤凰资讯HD
+https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="爱上4K" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="未分类",爱上4K
 http://192.168.222.220:4022/rtp/225.1.8.80:2000
